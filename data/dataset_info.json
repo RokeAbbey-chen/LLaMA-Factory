@@ -2,6 +2,15 @@
   "identity": {
     "file_name": "identity.json"
   },
+  "hlm-train-dialogue": {
+    "file_name": "hlm_dialogue_train_inst.json"
+  },
+  "hlm-eval-dialogue": {
+    "file_name": "hlm_dialogue_eval_inst.json"
+  },
+  "hlm-train-trans": {
+    "file_name": "hlm_trans.json"
+  },
   "alpaca_en_demo": {
     "file_name": "alpaca_en_demo.json"
   },
